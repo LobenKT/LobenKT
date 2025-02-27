@@ -44,7 +44,7 @@ Graduate Software Engineer with a strong foundation in Computer Science from De 
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LobenKT&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
 
